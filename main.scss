@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400&family=Karla&family=Lora:ital,wght@1,500&family=Nunito+Sans:opsz,wght@6..12,200&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+//Vendors
+@import "sass/vendors/_bootstrap";    
+@import "sass/vendors/_fontawesome"; 
+//Abstract    
+@import "sass/abstract/_mixins";
+@import "sass/abstract/_variables";
+
+
+//Base
+@import "sass/base/_reset";   
+
+
+//Components
+@import "sass/components/_buttons";                
+
+
+//Layout
+@import "sass/layout/_footer";     
+@import "sass/layout/_header";      
+@import "sass/layout/_home";
+
+//Pages
+@import "sass/pages/_cart";     
+@import "sass/pages/_shop";  
+@import "sass/pages/_features";
+@import "sass/pages/_features-responsive";
+@import "sass/pages/_half";
+@import "sass/pages/_lookbook";
+@import "sass/pages/product";
+
+
+//Themes
+@import "sass/themes/_admin";       
+@import "sass/themes/_dashboard";     
+

@@ -1,0 +1,242 @@
+// slider-section
+@media(width<=375px) {
+    .section-div {
+        .banner-text {
+            padding: 50px 0;
+
+            h1 {
+                font-size: 27px;
+                width: 55%;
+            }
+            h2{
+                font-size: 27px;
+            }
+            p{
+                width: 80%;
+                font-size: 14px;
+            }
+        }
+        .swiper-side1{
+            padding: 200px 0 250px 0;
+        }
+    }
+
+
+    #features-section {
+        .heading-text {
+            padding: 40px 0;
+            h1 {
+                font-size: 30px;
+                width: 60%;
+            }
+        }
+    }
+    #product-section{
+        .heading-text2{
+            padding: 40px 0;
+            h1{
+                font-size: 30px;
+            }
+        }
+    }
+    #blue-section{
+        
+        .content-text2{
+            padding: 100px 0 70px 0;
+            h1 {
+                font-size: 30px;
+                width: 60%;
+            }
+    
+            p {
+                font-size: 15px;
+                width: 60%;
+            }
+    
+        }
+    }
+// page-builder
+    .section-div2 {
+
+        .banner-text {
+            padding: 85px 0;
+    
+            h2 {
+                color: $gray-black;
+                font-size: 27px;
+                width: 75%;
+                font-family: 'Dosis', sans-serif;
+            }
+    
+    
+            p {
+                color: $gray-black;
+                font-size: 15px;
+                width: 92%;
+                line-height: 30px;
+                font-family: 'Karla', sans-serif;
+            }
+            strong{
+                color: $gray-black;
+                font-size: 15px;
+            }
+        }
+    img{
+        width: 150px;
+    }
+    }
+    // icons fonts section
+    #icons-section{
+        .heading-text2 {
+            padding: 40px 0;
+            h1{
+                font-size: 30px;
+            }
+            p{
+                font-size: 15px;
+                width: 60%;
+            }
+        }
+    }
+    // custom color section
+
+    #custom-section{
+
+        .heading-text2 {
+            padding: 40px 0;
+            h1{
+                font-size: 30px;
+            }
+            p{
+                font-size: 15px;
+                width: 60%;
+            }
+        }
+    }
+
+    // yellow section
+
+    #yellow-section{
+        padding: 70px 0;
+        .center-text{
+            h2{
+                font-size: 30px;
+            }
+            p{
+                font-size: 22px;
+                width: 45%;
+            }
+        }
+    }
+    
+    
+
+    // cards
+    .card-section {
+        .card-item {
+            h3 {
+                font-size: 19px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+           
+        }
+    }
+
+    .btn-ordinary,
+    .btn-hover, .btn-hover1, .btn-hover-secondary {
+        padding: 12px 20px !important;
+        font-size: 12px !important;
+    }
+
+    .section-div1 {
+        .content-text {
+            h1 {
+                font-size: 30px;
+                width: 65%;
+            }
+
+            p {
+                font-size: 14px;
+                width: 60%;
+            }
+        }
+        .content-text1{
+            h1{
+                width: 55%;
+            }
+        }
+
+        .cards {
+            padding-bottom: 80px;
+
+            .card-item {
+                padding-bottom: 40px;
+
+                .img-wrap {
+                    margin-bottom: 15px;
+
+                }
+
+                h6 {
+                    font-size: 20px;
+                    font-family: 'Dosis', sans-serif;
+
+                }
+            }
+        }
+    }
+
+}
+
+@media(width<=768px) {
+    #slider-section {
+        .banner-slider {
+            .swiper-pagination {
+                bottom: 0 !important;
+            }
+
+            .navigation {
+                bottom: 0 !important;
+                right: 35px !important;
+
+                .swiper-prev,
+                .swiper-next {
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+
+    #icons-section1{
+       
+        .heading-text2 {
+            padding: 110px 0 40px 0;
+    
+            h1 {
+                font-size: 32px;
+                width: 70%;
+            }
+        }
+    }
+
+    .card-section {
+        .card-item {
+            h3 {
+                font-size: 19px;
+            }
+            p {
+                font-size: 16px;
+            }
+            .paragraph1 {
+                font-size: 15px;
+            }
+            .paragraph2 {
+                font-size: 13px;
+            } 
+        }
+    }
+    
+}
