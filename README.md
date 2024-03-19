@@ -1,2 +1,2 @@
 <h1>Atelier</h1>
-<span><a href="https://XanlarogluSoft.github.io/Ateiler/">Preview link</span>
+<span><a href="https://xanlaroglusoft.github.io/Atelier/">Preview link</span>
